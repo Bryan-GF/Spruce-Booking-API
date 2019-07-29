@@ -11,9 +11,12 @@ Features:
 - Filter displayed bookings by booking type.
 - Create and store new bookings.
 
+#### Deployed Version: https://spruce-api.herokuapp.com/
+
 ## Running Locally:
 
-To run the application locally, navigate into the application folder and run the following commands:
+In order to run the app locally you must first clone the repository, then navigate 
+into the application folder and run the following commands:
 
 > yarn install
 
